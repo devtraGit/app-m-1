@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author cyrille.trabi
- *
+ * @since 2017
  */
 @SpringBootApplication
 public class AppM1Application {
